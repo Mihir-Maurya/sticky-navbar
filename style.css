@@ -53,7 +53,7 @@ body{
     color: #fff;
 }
 
-@media(max-width:500px){
+@media(max-width:350px){
     .navbar ul li a{
         margin: 0 2px;
     }
