@@ -55,9 +55,12 @@ body{
 
 @media(max-width:350px){
     .navbar ul li a{
-        margin: 0 2px;
+        margin: 0 5px;
+    }
+    ul{
+       margin-right: 15px;
     }
     .navbar{
-     justify-content:space-around;
+        justify-content: space-evenly;
     }
 }
